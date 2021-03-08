@@ -1,5 +1,5 @@
 # Buildmode
-A build-mode for TShock for Terraria(4..4.0)
+A build-mode plugin for TShock
 
 ## Features:
 
