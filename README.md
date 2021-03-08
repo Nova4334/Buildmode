@@ -1,5 +1,5 @@
 # Buildmode
-A build-mode plugin for TShock
+A build-mode plugin for TShock, by nyan-ko & Nova4334
 
 ## Features:
 
