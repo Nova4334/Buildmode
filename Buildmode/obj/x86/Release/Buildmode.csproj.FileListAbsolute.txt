@@ -11,3 +11,4 @@ C:\Users\Marle\source\repos\Buildmode\Buildmode\bin\x86\Release\Newtonsoft.Json.
 C:\Users\Marle\source\repos\Buildmode\Buildmode\obj\x86\Release\Buildmode.csproj.CopyComplete
 C:\Users\Marle\source\repos\Buildmode\Buildmode\obj\x86\Release\Buildmode.dll
 C:\Users\Marle\source\repos\Buildmode\Buildmode\obj\x86\Release\Buildmode.pdb
+C:\Users\Marle\source\repos\Buildmode\Buildmode\obj\x86\Release\Buildmode.csprojAssemblyReference.cache
