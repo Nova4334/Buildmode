@@ -12,7 +12,7 @@ A build-mode plugin for TShock, by nyan-ko & Nova4334
 - /buildmode
 - /bm
 - /stime
-- /stime <time> 
+- /stime (time)
 
 ## Permissions:
 
