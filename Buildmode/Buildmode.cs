@@ -51,7 +51,7 @@ namespace Buildmode
 		}
 		public override string Author
 		{
-			get { return "Nova4334"; }
+			get { return "nyan-ko & Nova4334"; }
 		}
 		public override string Name
 		{
