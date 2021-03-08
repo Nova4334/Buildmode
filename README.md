@@ -21,4 +21,4 @@ A build-mode for TShock for Terraria(4..4.0)
 
 ## Future plans:
 
-- Considering to add noMobs to the toggle, dm #Rozen#1000 if you want this added.
+Considering to add noMobs to the toggle, dm #Rozen#1000 if you want this added.
