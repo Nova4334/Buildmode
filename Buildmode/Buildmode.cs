@@ -80,7 +80,7 @@ namespace Buildmode
                 "bm"));
 
             Commands.ChatCommands.Add(new Command(
-                "buildmode.toggle",
+                "buildmode.stime",
                 STime,
                 "stime"));
         }
