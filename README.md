@@ -21,4 +21,4 @@ A build-mode plugin for TShock, by nyan-ko & Nova4334
 
 ## Future plans:
 
-Considering to add noMobs to the toggle, dm #Rozen#1000 if you want this added.
+Considering to add noMobs to the toggle, dm #Rozen#4334 on Discord if you want this added.
